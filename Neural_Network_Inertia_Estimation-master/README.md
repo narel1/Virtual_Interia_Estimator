@@ -9,9 +9,5 @@ All of the python scripts are inside the "main code files" folder. A sample of f
 3. `matplotlib`
 4. `h5py`
 
-## Acknowledgement
 
-If you use the code in any of your work, please cite the work as shown below:
-
-A. Poudyal, U. Tamrakar, R. D. Trevizan, R. Fourney, R. Tonkoski, and T. M. Hansen, “Convolutional neural network-based inertia estimation using local frequency measurements,”  in 52nd North American  Power Symposium (NAPS), 2020
 
