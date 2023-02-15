@@ -1,0 +1,13 @@
+loading_data.py
+irisdata.txt
+regression_AEcheck_MLP.py
+regression_iner_LSTM.py
+regression_iner_MLP_single.py
+/slprj/
+/__pycache__/
+/output/
+/with damping test/
+
+/**/main code files/__pycache__/
+
+/data files/
